@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "userId": 1,
+      "firstName": "Krish",
+      "lastName": "Lee",
+      "phoneNumber": "123456",
+      "emailAddress": "klee@cisco.com"
+    },
+    {
+      "userId": 2,
+      "firstName": "Sally",
+      "lastName": "Jackson",
+      "phoneNumber": "4444444",
+      "emailAddress": "sjackson@cisco.com"
+    },
+    {
+      "userId": 3,
+      "firstName": "Daniel",
+      "lastName": "Rast",
+      "phoneNumber": "33333333",
+      "emailAddress": "drast@cisco.com"
+    },
+    {
+      "userId": 4,
+      "firstName": "David",
+      "lastName": "Smith",
+      "phoneNumber": "222222222",
+      "emailAddress": "dsmith@cisco.com"
+    },
+    {
+      "userId": 5,
+      "firstName": "Joan",
+      "lastName": "Mally",
+      "phoneNumber": "111111111",
+      "emailAddress": "jmally@cisco.com"
+    }
+  ]
+}
